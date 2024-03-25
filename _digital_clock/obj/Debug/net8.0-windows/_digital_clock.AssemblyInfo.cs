@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_digital_clock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38c6e6615fd6a1862e032d37955a763f859f811d")]
 [assembly: System.Reflection.AssemblyProductAttribute("_digital_clock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_digital_clock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

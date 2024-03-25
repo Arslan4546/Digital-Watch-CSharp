@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PMLS\\source\\repos\\_digital_clock\\_digital_clock\\_digital_clock.csproj",
+      "projectUniqueName": "A:\\C# practices\\_digital_clock\\_digital_clock\\_digital_clock.csproj",
       "projectName": "_digital_clock",
-      "projectPath": "C:\\Users\\PMLS\\source\\repos\\_digital_clock\\_digital_clock\\_digital_clock.csproj",
+      "projectPath": "A:\\C# practices\\_digital_clock\\_digital_clock\\_digital_clock.csproj",
       "packagesPath": "C:\\Users\\PMLS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PMLS\\source\\repos\\_digital_clock\\_digital_clock\\obj\\",
+      "outputPath": "A:\\C# practices\\_digital_clock\\_digital_clock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PMLS\\AppData\\Roaming\\NuGet\\NuGet.Config",

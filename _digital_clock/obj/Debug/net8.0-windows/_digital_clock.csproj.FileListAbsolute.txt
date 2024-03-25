@@ -14,3 +14,20 @@ C:\Users\PMLS\source\repos\_digital_clock\_digital_clock\obj\Debug\net8.0-window
 C:\Users\PMLS\source\repos\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.pdb
 C:\Users\PMLS\source\repos\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.genruntimeconfig.cache
 C:\Users\PMLS\source\repos\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\ref\_digital_clock.dll
+A:\C# practices\_digital_clock\_digital_clock\bin\Debug\net8.0-windows\_digital_clock.exe
+A:\C# practices\_digital_clock\_digital_clock\bin\Debug\net8.0-windows\_digital_clock.deps.json
+A:\C# practices\_digital_clock\_digital_clock\bin\Debug\net8.0-windows\_digital_clock.runtimeconfig.json
+A:\C# practices\_digital_clock\_digital_clock\bin\Debug\net8.0-windows\_digital_clock.dll
+A:\C# practices\_digital_clock\_digital_clock\bin\Debug\net8.0-windows\_digital_clock.pdb
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.Form1.resources
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.csproj.GenerateResource.cache
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.GeneratedMSBuildEditorConfig.editorconfig
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.AssemblyInfoInputs.cache
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.AssemblyInfo.cs
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.csproj.CoreCompileInputs.cache
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.sourcelink.json
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.dll
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\refint\_digital_clock.dll
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.pdb
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\_digital_clock.genruntimeconfig.cache
+A:\C# practices\_digital_clock\_digital_clock\obj\Debug\net8.0-windows\ref\_digital_clock.dll
