@@ -6,10 +6,6 @@ Introducing my latest creation: a sleek and efficient digital clock programmed e
 Hello there! I'm Arslan, a seasoned C# developer with a passion for crafting elegant and efficient solutions. With years of experience under my belt, I've honed my skills in C# programming to become an expert in developing robust and scalable applications.
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to networking opportunities, discussions about technology, or just sharing programming anecdotes over a cup of coffee.
 
-## Screenshots
-
-![App Screenshot](https://github.com/Arslan4546/Digital_Watch_CSharp/blob/main/screenshot/digital%20clock.png)
-
 
 ## Contact Me
 
